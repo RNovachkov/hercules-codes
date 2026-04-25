@@ -4,7 +4,7 @@
   "description": "Level password codes for Disney's Hercules",
   "type": "module",
   "scripts": {
-    "build": "rollup -c",
+    "build": "pnpm exec rollup -c",
     "watch": "rollup -c -w"
   },
   "author": "rnovachkov",
