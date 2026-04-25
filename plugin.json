@@ -1,0 +1,15 @@
+{
+  "name": "Hercules Codes",
+  "author": "Rumen Novachkov",
+  "flags": [],
+  "publish": {
+    "tags": [
+      "utility",
+      "reference",
+      "game",
+      "cheat codes"
+    ],
+    "description": "Decky Disney Hercules Codes.",
+    "image": "https://github.com/RNovachkov/zenson/blob/main/logo.png"
+  }
+}
