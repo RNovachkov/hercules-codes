@@ -1,6 +1,6 @@
 {
   "name": "hercules-codes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Level password codes for Disney's Hercules",
   "type": "module",
   "scripts": {
